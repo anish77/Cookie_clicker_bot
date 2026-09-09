@@ -1,0 +1,9 @@
+[project]
+name = "cookie-clicker-bot"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "by>=0.0.8",
+    "ec>=0.2.5",
+    "selenium>=4.48.0",
+]
